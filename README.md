@@ -1,5 +1,1 @@
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+<div id="div1" style="border: solid;width:400px; height:400px; "></div>
